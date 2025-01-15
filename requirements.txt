@@ -15,4 +15,5 @@ langchain_chroma
 streamlit
 langchain_groq
 langchain_core
+pysqlite3-binary
 
