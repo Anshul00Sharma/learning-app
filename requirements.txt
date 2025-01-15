@@ -16,4 +16,5 @@ streamlit
 langchain_groq
 langchain_core
 pysqlite3-binary
+streamlit_chat
 
